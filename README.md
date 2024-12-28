@@ -1,0 +1,1 @@
+This game allows you to save your game progress as you play.  To do this, it creates a text file containing the player's data, this file is stored in the same location as the game file.  I also included my own save file on there that you can load to mess around with.
